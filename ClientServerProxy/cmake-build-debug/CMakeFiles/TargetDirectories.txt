@@ -1,0 +1,6 @@
+/home/bohdan/CLionProjects/ClientServerProxy/cmake-build-debug/CMakeFiles/client.dir
+/home/bohdan/CLionProjects/ClientServerProxy/cmake-build-debug/CMakeFiles/server.dir
+/home/bohdan/CLionProjects/ClientServerProxy/cmake-build-debug/CMakeFiles/proxy1.dir
+/home/bohdan/CLionProjects/ClientServerProxy/cmake-build-debug/CMakeFiles/proxy2.dir
+/home/bohdan/CLionProjects/ClientServerProxy/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/bohdan/CLionProjects/ClientServerProxy/cmake-build-debug/CMakeFiles/rebuild_cache.dir
